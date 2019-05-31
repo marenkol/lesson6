@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"kw5J":[function(require,module,exports) {
 "use strict";var e=r(require("camelcase"));function r(e){return e&&e.__esModule?e:{default:e}}var u=document.querySelector("#result"),t=document.querySelector("#input"),n=function(r){var n=t.value,a=(0,e.default)(n);return u.innerHTML=a};t.addEventListener("blur",n);
 },{"camelcase":"Hr/L"}]},{},["kw5J"], null)
-//# sourceMappingURL=/06-part-1.a0fedcd7.js.map
+//# sourceMappingURL=/lesson6/06-part-1.a0fedcd7.js.map
