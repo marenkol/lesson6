@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,KACC,yBAED,OACC","file":"styles.df482df9.css","sourceRoot":"..","sourcesContent":["body{\r\n\tbackground-color: lightseagreen;\r\n}\r\n#input{\r\n\tmargin-bottom: 10px;\r\n}\r\n"]}
